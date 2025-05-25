@@ -54,7 +54,8 @@ The goal is to clean, preprocess, and visualize the data to extract valuable ins
 
 ## 📸 Sample Visuals
 
-
+### Power BI Dashboard
+![Power BI Dashboard](powerbi_dashboard.png)
 
 ---
 
